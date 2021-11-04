@@ -1,5 +1,5 @@
 {
-  "name": "@builder.io/qwik-linux-arm64-gnu",
+  "name": "@builder.io/qwik-optimizer-linux-arm64-gnu",
   "version": "1.0.0",
   "os": [
     "linux"
@@ -28,5 +28,5 @@
     "registry": "https://registry.npmjs.org/",
     "access": "public"
   },
-  "repository": "git@github.com:napi-rs/qwik-optimizer.git"
+  "repository": "git@github.com:adamdbradley/napi-test.git"
 }

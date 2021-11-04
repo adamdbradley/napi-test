@@ -1,3 +1,3 @@
-# `@builder.io/qwik-win32-arm64-msvc`
+# `@builder.io/qwik-optimizer-win32-arm64-msvc`
 
-This is the **aarch64-pc-windows-msvc** binary for `@builder.io/qwik`
+This is the **aarch64-pc-windows-msvc** binary for `@builder.io/qwik/optimizer`

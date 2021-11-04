@@ -1,4 +1,4 @@
-# `@builder.io/qwik`
+# `@builder.io/qwik/optimizer`
 
 ![https://github.com/napi-rs/qwik-optimizer/actions](https://github.com/napi-rs/qwik-optimizer/workflows/CI/badge.svg)
 

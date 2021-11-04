@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Template project for writing node package with napi-rs",
   "main": "index.js",
-  "repository": "git@github.com:napi-rs/qwik-optimizer.git",
+  "repository": "git@github.com:adamdbradley/napi-test.git",
   "license": "MIT",
   "keywords": [
     "napi-rs",
@@ -99,17 +99,17 @@
     "parser": "typescript"
   },
   "optionalDependencies": {
-    "@builder.io/qwik-win32-x64-msvc": "1.0.0",
-    "@builder.io/qwik-darwin-x64": "1.0.0",
-    "@builder.io/qwik-linux-x64-gnu": "1.0.0",
-    "@builder.io/qwik-linux-x64-musl": "1.0.0",
-    "@builder.io/qwik-linux-arm64-gnu": "1.0.0",
-    "@builder.io/qwik-win32-ia32-msvc": "1.0.0",
-    "@builder.io/qwik-linux-arm-gnueabihf": "1.0.0",
-    "@builder.io/qwik-darwin-arm64": "1.0.0",
-    "@builder.io/qwik-android-arm64": "1.0.0",
-    "@builder.io/qwik-freebsd-x64": "1.0.0",
-    "@builder.io/qwik-linux-arm64-musl": "1.0.0",
-    "@builder.io/qwik-win32-arm64-msvc": "1.0.0"
+    "@builder.io/qwik-optimizer-win32-x64-msvc": "1.0.0",
+    "@builder.io/qwik-optimizer-darwin-x64": "1.0.0",
+    "@builder.io/qwik-optimizer-linux-x64-gnu": "1.0.0",
+    "@builder.io/qwik-optimizer-linux-x64-musl": "1.0.0",
+    "@builder.io/qwik-optimizer-linux-arm64-gnu": "1.0.0",
+    "@builder.io/qwik-optimizer-win32-ia32-msvc": "1.0.0",
+    "@builder.io/qwik-optimizer-linux-arm-gnueabihf": "1.0.0",
+    "@builder.io/qwik-optimizer-darwin-arm64": "1.0.0",
+    "@builder.io/qwik-optimizer-android-arm64": "1.0.0",
+    "@builder.io/qwik-optimizer-freebsd-x64": "1.0.0",
+    "@builder.io/qwik-optimizer-linux-arm64-musl": "1.0.0",
+    "@builder.io/qwik-optimizer-win32-arm64-msvc": "1.0.0"
   }
 }
