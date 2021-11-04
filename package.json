@@ -97,19 +97,5 @@
     "singleQuote": true,
     "arrowParens": "always",
     "parser": "typescript"
-  },
-  "optionalDependencies": {
-    "@builder.io/qwik-optimizer-win32-x64-msvc": "1.0.0",
-    "@builder.io/qwik-optimizer-darwin-x64": "1.0.0",
-    "@builder.io/qwik-optimizer-linux-x64-gnu": "1.0.0",
-    "@builder.io/qwik-optimizer-linux-x64-musl": "1.0.0",
-    "@builder.io/qwik-optimizer-linux-arm64-gnu": "1.0.0",
-    "@builder.io/qwik-optimizer-win32-ia32-msvc": "1.0.0",
-    "@builder.io/qwik-optimizer-linux-arm-gnueabihf": "1.0.0",
-    "@builder.io/qwik-optimizer-darwin-arm64": "1.0.0",
-    "@builder.io/qwik-optimizer-android-arm64": "1.0.0",
-    "@builder.io/qwik-optimizer-freebsd-x64": "1.0.0",
-    "@builder.io/qwik-optimizer-linux-arm64-musl": "1.0.0",
-    "@builder.io/qwik-optimizer-win32-arm64-msvc": "1.0.0"
   }
 }
